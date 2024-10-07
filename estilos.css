@@ -1,0 +1,95 @@
+/* body{
+    background-color: aqua;
+}
+.caja1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(30,197,197);
+}
+.caja2{
+    width: 150px;
+    height: 150px;
+}
+.caja3{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(12,57%,69%);
+} */
+
+/* *{
+    color: orange;
+} */
+
+
+/* div{
+    color: green;
+} */
+
+/* 
+.caja1{
+    color: red;
+}
+
+#foo{
+    color: orange;
+}
+
+a[title]{
+    color: green;
+}
+button:hover{
+    background-color: green;
+}
+
+input:disabled{
+    border: 2px solid orange;
+} */
+
+
+/* body{
+    background-color: green;
+}
+p{
+    background-color: #ff0000 ;
+}
+div{
+    background-color: hsl(60, );
+}  */
+/* .caja1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(12,12,12);
+}
+.caja2{
+    width: 150px;
+    height: 150px;
+}
+.caja3{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(60, 100%, 50%);
+}  */
+
+/* *{
+    color: orange;
+} */
+
+/* div{
+    color: green;
+} */
+
+.caja1 {
+    color: red;
+}
+#foo{
+    color: orange;
+}
+a[title]{
+    color: green;
+}
+button:hover{
+    background-color: green;
+}
+input:disabled{
+    border: 2px solid orange;
+}
